@@ -1,0 +1,32 @@
+name: Publish playable game to GitHub Pages
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - name: Verify and extract the web build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release download v1.4.0 --repo "$GITHUB_REPOSITORY" --pattern "FirmamentSilent-1.4.0-web.zip"
+          echo "437d78caf2769238cc82ee1fed19ce260ec5034e5dd78e9d724280ad62dd30da  FirmamentSilent-1.4.0-web.zip" | sha256sum -c -
+          unzip -q "FirmamentSilent-1.4.0-web.zip" -d _site
+          test -f _site/index.html
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - id: deployment
+        uses: actions/deploy-pages@v4
