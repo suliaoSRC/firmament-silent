@@ -1,0 +1,48 @@
+天穹静默之时 — 配乐来源与署名 / MUSIC CREDITS
+
+Music by Scott Buckley – released under CC-BY 4.0.
+www.scottbuckley.com.au
+License: https://creativecommons.org/licenses/by/4.0/
+Usage: https://www.scottbuckley.com.au/library/using-this-music/
+
+下列配乐由 Scott Buckley 创作，以 CC BY 4.0 许可作为本游戏配乐使用。
+The following tracks are by Scott Buckley, released under CC BY 4.0, and synchronized with this game.
+音乐原始录音未修改；游戏引擎控制音量、淡入淡出及循环。
+Recordings are unmodified; playback gain, fades and repetition are controlled by the game.
+这些录音并非 MiniMax 生成。 / These recordings were not generated with MiniMax.
+
+'The Weight of Air – Anabasis I' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/anabasis-i/
+Game cue: dread
+
+'Signal to Noise' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/signal-to-noise/
+Game cue: protocol
+
+'Hiraeth' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/hiraeth/
+Game cue: starlight
+
+'In This Moment' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/in-this-moment/
+Game cue: tea
+
+'Juggernaut' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/juggernaut/
+Game cue: pursuit
+
+'The Weight of Air – Anabasis II' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/anabasis-ii/
+Game cue: critical
+
+'Aphelion' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/aphelion/
+Game cue: firmament
+
+'Home Was You' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/home-was-you/
+Game cue: home
+
+'Machina' by Scott Buckley – released under CC-BY 4.0.
+https://www.scottbuckley.com.au/library/machina/
+Game cue: cosmic
