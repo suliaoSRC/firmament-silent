@@ -4,7 +4,8 @@
 
 ## 开始游戏
 
-- [下载 Windows x64 试玩版 1.4.0](https://github.com/suliaoSRC/firmament-silent/releases/download/v1.4.0/FirmamentSilent-1.4.0-win.zip)（约 259 MB）
+- [浏览器直接玩](https://suliaosrc.github.io/firmament-silent/)
+- [下载 Windows x64 试玩版 1.4.0](https://github.com/suliaoSRC/firmament-silent/releases/download/v1.4.0/FirmamentSilent-1.4.0-win.zip)（约 272 MB）
 
 下载后完整解压，双击 `FirmamentSilent.exe`。鼠标左键、空格或向下滚动推进对白，向上滚动回溯，鼠标中键隐藏或恢复对白。
 
